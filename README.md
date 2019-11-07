@@ -6,7 +6,7 @@ In this assignment, a train schedule application incorporates Firebase to host a
 The app retrieves and manipulates this information with Moment.js. The website provides up-to-date information 
 about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
 
-The app suits these basic spec:
+The app suits these basic specs:
   
   * When adding trains, administrators should be able to submit the following:
     
