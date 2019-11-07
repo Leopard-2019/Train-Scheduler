@@ -1,7 +1,8 @@
-# Train-Scheduler
-train schedule application that incorporates Firebase to host arrival and departure data
+Firebase Assignment - Train Scheduler (Basic)
 
-In this assignment, a train schedule application that incorporates Firebase to host arrival and departure data. 
+A train schedule application that incorporates Firebase to host arrival and departure data
+
+In this assignment, a train schedule application incorporates Firebase to host arrival and departure data. 
 The app retrieves and manipulates this information with Moment.js. The website provides up-to-date information 
 about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
 
