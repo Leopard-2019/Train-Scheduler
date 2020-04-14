@@ -8,6 +8,7 @@ This app retrieves and manipulates this information with Moment.js. The website 
 about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
 
 ![](assets/images/Train1.png)
+![](assets/images/Train2.png)
 
 The app suits these basic specs:
   
