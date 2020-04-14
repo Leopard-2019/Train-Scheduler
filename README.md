@@ -1,4 +1,4 @@
-# Firebase Assignment - Train Scheduler (Basic) #
+# Firebase-Train Scheduler (Basic) #
 
 A train schedule application that incorporates Firebase to host arrival and departure data
 
