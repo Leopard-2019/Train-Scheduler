@@ -1,6 +1,8 @@
 # Firebase-Train Scheduler (Basic) #
 
-A train schedule application that incorporates Firebase to host arrival and departure data
+A train schedule application that incorporates Firebase to host arrival and departure data.
+
+https://leopard-2019.github.io/Train-Scheduler/
 
 This app  incorporates Firebase to host arrival and departure data. 
 
