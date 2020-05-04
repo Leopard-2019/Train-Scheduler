@@ -2,7 +2,7 @@
 
 A train schedule application that incorporates Firebase to host arrival and departure data.
 
-https://leopard-2019.github.io/Train-Scheduler/
+This app is deployed at: https://leopard-2019.github.io/Train-Scheduler/
 
 This app  incorporates Firebase to host arrival and departure data. 
 
